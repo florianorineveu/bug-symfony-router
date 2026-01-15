@@ -1,6 +1,6 @@
-# Symfony 7.3 - Doctrine Controller Resolver Path Bug Reproducer
+# Symfony 7.3 - Router Bug Reproducer
 
-Bug reproducer for Doctrine EntityValueResolver with path-type route parameters.
+Bug reproducer for Router with path route parameter.
 
 ## Requirements
 
